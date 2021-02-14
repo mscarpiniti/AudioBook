@@ -1,0 +1,7 @@
+Il codice dell'esempio è reperibile sul sito di MATLAB al link:
+
+https://it.mathworks.com/help/audio/ug/speaker-identification-using-pitch-and-mfcc.html
+
+E' possibile aprire il file sorgente del codice digitando il seguente comando sul prompt:
+
+>> openExample('audio_wavelet/SpeakerIdentificationUsingPitchAndMFCCExample')

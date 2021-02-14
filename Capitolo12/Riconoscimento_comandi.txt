@@ -1,0 +1,7 @@
+Il codice dell'esempio è reperibile sul sito di MATLAB al link:
+
+https://it.mathworks.com/help/audio/ug/Speech-Command-Recognition-Using-Deep-Learning.html
+
+E' possibile aprire il file sorgente del codice digitando il seguente comando sul prompt:
+
+>> openExample('deeplearning_shared/DeepLearningSpeechRecognitionExample')
