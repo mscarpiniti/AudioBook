@@ -27,7 +27,6 @@ figWindow = initDisplay(deviceWriter, fileReader, H, Fs);
 
 % Lettura degli slider
 G = slideReader(figWindow);
-% G0 = G + 6;
 
 % Crezione dei filtri
 [b, a] = creaFiltri(G, Fs);
