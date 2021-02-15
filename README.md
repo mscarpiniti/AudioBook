@@ -26,7 +26,7 @@ Il testo, nato dall'esperienza dell'autore nell'insegnamento di tali argomenti n
 6. Gli effetti audio
 7. Altre applicazioni
 
-**L'audio in tempo reale**
+**II L'audio in tempo reale**
 
 8. L'audio in tempo reale
 9. Gli oggetti di sistema per l'audio
