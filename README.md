@@ -37,7 +37,7 @@ Il testo, nato dall'esperienza dell'autore nell'insegnamento di tali argomenti n
 11. I plugin audio
 12. Machine Learning e audio
 
-**III Simulink e audio**
+**III L'audio con Simulink**
 
 13. L'audio e Simulink
 14. Simulink e altri sistemi
