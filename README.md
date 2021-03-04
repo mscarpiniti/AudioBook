@@ -2,6 +2,9 @@
 
 ![AudioBook](/Files/AudioBook.jpg)
 
+## Disponibile su [Amazon](https://www.amazon.it/dp/B08WK2JWXQ)
+
+
 ### Descrizione
 
 Il testo è completamente dedicato all'elaborazione del segnale audio con MATLAB®. Unico nel suo genere, il testo copre molteplici argomenti: dalle diverse rappresentazioni del segnale audio al progetto di filtri, dall'uso delle schede audio in tempo reale al progetto dei plugin, dall'uso di Simulink® nell'audio al deployment di applicazioni sugli smartphone. Vengono anche affrontati argomenti molto specifici, quali il protocollo MIDI o l'utilizzo di computer su single-board, offrendo anche una panoramica sulle moderne tecniche di Machine Learning per la classificazione audio e il riconoscimento dei comandi vocali. Il codice di tutti gli esempi proposti nel testo è reso disponibile online per il download.
