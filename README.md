@@ -2,7 +2,7 @@
 
 ![AudioBook](/Files/AudioBook.jpg)
 
-### [Frontespizio](https://drive.google.com/file/d/13TBhlW3YTe-584i8wV8e1IVW4Su3zS1K/view?usp=sharing)
+### [Frontespizio](https://drive.google.com/file/d/13bF0lt7tnIeGn3p-7cxGpRLnRK-N9nEn/view?usp=sharing)
 
 ## Disponibile su [Amazon](https://www.amazon.it/dp/B08WK2JWXQ)
 
