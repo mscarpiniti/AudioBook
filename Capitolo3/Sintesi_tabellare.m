@@ -10,7 +10,7 @@ T  = 4;       % Secondi da generare
 
 tabella = sin(2*pi*(0:Lt-1)/Lt);  % Si riempe la tabella
 
-incr = fd * Lt/Fs;    % Calcolo dell'incremento con la (2.1)
+incr = fd * Lt/Fs;    % Calcolo dell'incremento con la (3.1)
 
 % Inizializzazioni
 Ly = T*Fs;            % Lunghezza del segnale da generare
