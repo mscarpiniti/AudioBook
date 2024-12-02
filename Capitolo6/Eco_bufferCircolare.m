@@ -20,7 +20,7 @@ for n = 1:length(x)      % Per ogni campione
     buffer(pt) = x(n) + g*temp;   % Si scrive nel buffer il valore elaborato
     y(n) = temp;    % Si definisce il campione di output
     pt = pt + 1;    % Si incrementa il valore del puntatore
-    if pt > Lb
+    if pt > LB
         pt = 1;
     end
 end

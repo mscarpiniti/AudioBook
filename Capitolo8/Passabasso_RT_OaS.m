@@ -28,7 +28,7 @@ setup(deviceWriter, zeros(M, 1));
 
 % Stream loop
 tic;
-while toc < 10                % Per 30 secondi
+while toc < 30                % Per 30 secondi
     x  = deviceReader();      % Lettura di un frame da scheda
     xb = zeros(N, 1);
     pt_l = pt - L;            % Puntatore di lettura

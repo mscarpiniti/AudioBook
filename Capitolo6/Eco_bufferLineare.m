@@ -10,7 +10,7 @@ T = 1;  % Ritardo di 1 secondo
 g = 0.5;
 D = T*Fs;
 
-buffer = zeros(1, D);
+buffer = zeros(D, 1);
 y = zeros(size(x));
 
 for n = 1:length(x)       % Per ogni campione
